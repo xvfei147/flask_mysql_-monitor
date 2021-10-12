@@ -1,0 +1,11 @@
+# 此处配置用来发送报警邮件的邮箱
+email:
+    server: smtp.exmail.qq.com
+    port: 587
+    from: 《SQL报警平台》
+    addr: 发件人邮箱
+    password: 发件人邮箱密码
+    # 收件人
+#    to:
+    # 抄送
+#    cc:
