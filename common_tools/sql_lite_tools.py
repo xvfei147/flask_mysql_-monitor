@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/26 14:39
-# @Author  : wyq
-# @File    : sql_lite_tools.py
-# @Desc    : 监控用
-
 import sqlite3
 
 

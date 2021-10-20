@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2019/4/19 16:39
-# @Author  : wyq
-# @File    : sql_monitor_style.py
-
 # 邮箱html样式
 style = '''
 .table15_1 table {

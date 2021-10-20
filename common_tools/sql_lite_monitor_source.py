@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/26 14:39
-# @Author  : wyq
-# @File    : sql_lite_monitor_source.py
-# @Desc    : 监控数据源
 from common_tools.sql_lite_tools import SqlLite3Tools
 
 # 数据源创建sql

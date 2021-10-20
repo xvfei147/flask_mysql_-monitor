@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Author  : wyq
-import logging
-import os
-
-
 class Logger:
     def __init__(self, log_name, log_file):
         self._logger = logging.getLogger(log_name)

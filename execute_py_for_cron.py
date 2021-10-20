@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2019/4/19 15:39
-# @Author  : wyq
-# @File    : execute_py_for_cron.py
 # 用于执行linux cron表达式 配置的本项目脚本
 # 30 0 * * * /usr/local/bin/python3 /home/dhph/python_workspace/dh_account_check/execute_py_for_cron.py check_customer &>/home/dhph/logs/check_customer.log 2>&1
 # 15 0 24 4 * /usr/local/bin/python3 /home/dhph/python_workspace/dh_account_check/execute_py_for_cron.py check_borrower &>/home/dhph/logs/check_borrower.log 2>&1

@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/26 12:05
-# @Author  : wyq
-# @File    : monitor.py
-
 from common_tools import sql_lite_monitor
 from common_tools import sql_lite_monitor_source
 from common_tools import cron_tools

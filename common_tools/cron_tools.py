@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2018/12/26 13:33
-# @Author  : wyq
-# @File    : cron_tools.py
-
 import croniter, datetime, time
 
 
